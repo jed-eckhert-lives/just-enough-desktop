@@ -1,0 +1,18 @@
+## Allow user to lock screen.
+xscreensaver-command -exit &
+xscreensaver -no-splash &
+
+## The task bar on the bottom.
+tint2 &
+
+## This is if you want pcmanfm to handle your desktop.
+#pcmanfm --desktop &
+
+## This helps one with the whole "laptop and battery" thing.
+xfce4-power-manager &
+
+## Has a command line fly down like the whole system is quake.
+guake &
+
+## We restart this as there is sometimes a bug where the mouse does not appear.
+openbox --restart &
