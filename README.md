@@ -62,3 +62,4 @@ What this installs.
  --- This allows one to run gui applications at admin level.
 
  Feel free to send feedback to jed@hamburgersushi.com.
+ More information on this.  https://www.youtube.com/watch?v=dQw4w9WgXcQ
